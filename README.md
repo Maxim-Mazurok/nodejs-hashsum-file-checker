@@ -2,12 +2,16 @@
 ```
 npm install -g nodejs-hashsum-file-checker
 ```
+or, if you're getting "Missing write access" error, try adding a `sudo`:
+```
+sudo npm install -g nodejs-hashsum-file-checker
+```
 
 ## CLI
 ```
-node index.js filePath [algorithm]
+hashsum-file-checker filePath [algorithm]
 ```
 
 ## Examples
-0. `node index.js test.txt md5` - return md5 hash-sum for `test.txt` file.
-0. `node index.js test.txt` - return all available hash-sums for `test.txt`
+0. `hashsum-file-checker test.txt md5` - return md5 hash-sum for `test.txt` file.
+0. `hashsum-file-checker test.txt` - return all available hash-sums for `test.txt`
