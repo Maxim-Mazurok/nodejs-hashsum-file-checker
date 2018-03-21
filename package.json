@@ -17,6 +17,9 @@
     "cli"
   ],
   "author": "Maxim Mazurok <maxim@mazurok.com>",
+  "bin": {
+    "hashsum-file-checker": "index.js"
+  },
   "license": "ISC",
   "dependencies": {}
 }
