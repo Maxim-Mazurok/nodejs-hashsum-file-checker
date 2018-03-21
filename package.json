@@ -1,6 +1,6 @@
 {
   "name": "nodejs-hashsum-file-checker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check all available hash-sums for file with NodeJS",
   "main": "index.js",
   "scripts": {
