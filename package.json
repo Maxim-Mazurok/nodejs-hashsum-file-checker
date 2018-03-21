@@ -20,6 +20,6 @@
   "bin": {
     "hashsum-file-checker": "index.js"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {}
 }

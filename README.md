@@ -1,5 +1,9 @@
+![](https://img.shields.io/npm/v/nodejs-hashsum-file-checker.svg)
+![](https://img.shields.io/npm/dt/nodejs-hashsum-file-checker.svg)
+![](https://img.shields.io/npm/l/nodejs-hashsum-file-checker.svg)
+
 ## Install
-```
+
 npm install -g nodejs-hashsum-file-checker
 ```
 or, if you're getting "Missing write access" error, try adding a `sudo`:
