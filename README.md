@@ -1,6 +1,8 @@
-![](https://img.shields.io/npm/v/nodejs-hashsum-file-checker.svg)
-![](https://img.shields.io/npm/dt/nodejs-hashsum-file-checker.svg)
-![](https://img.shields.io/npm/l/nodejs-hashsum-file-checker.svg)
+# NodeJS HashSum File Checker
+
+[<img src="https://img.shields.io/npm/v/nodejs-hashsum-file-checker.svg">](https://www.npmjs.com/package/nodejs-hashsum-file-checker)
+[<img src="https://img.shields.io/npm/dt/nodejs-hashsum-file-checker.svg">](https://www.npmjs.com/package/nodejs-hashsum-file-checker)
+[<img src="https://img.shields.io/npm/l/nodejs-hashsum-file-checker.svg">](https://github.com/Maxim-Mazurok/nodejs-hashsum-file-checker/blob/master/LICENSE)
 
 ## Install
 ```
